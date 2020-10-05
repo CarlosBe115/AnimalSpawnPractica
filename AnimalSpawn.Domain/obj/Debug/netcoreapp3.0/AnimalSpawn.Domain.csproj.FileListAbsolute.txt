@@ -1,0 +1,8 @@
+C:\Users\carna\Desktop\Home\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.0\AnimalSpawn.Domain.deps.json
+C:\Users\carna\Desktop\Home\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.0\AnimalSpawn.Domain.dll
+C:\Users\carna\Desktop\Home\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.0\AnimalSpawn.Domain.pdb
+C:\Users\carna\Desktop\Home\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.0\AnimalSpawn.Domain.csprojAssemblyReference.cache
+C:\Users\carna\Desktop\Home\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.0\AnimalSpawn.Domain.AssemblyInfoInputs.cache
+C:\Users\carna\Desktop\Home\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.0\AnimalSpawn.Domain.AssemblyInfo.cs
+C:\Users\carna\Desktop\Home\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.0\AnimalSpawn.Domain.dll
+C:\Users\carna\Desktop\Home\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.0\AnimalSpawn.Domain.pdb
